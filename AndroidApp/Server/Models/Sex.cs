@@ -2,7 +2,7 @@
 namespace AndroidApp
 {
     /// <summary>
-    /// Возможный пол клиента
+    ///  Пол клиента
     /// </summary>
     public enum Sex
     {
